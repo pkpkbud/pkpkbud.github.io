@@ -13,7 +13,7 @@ Szczegółowy opis działania zawierają [instrukcje](#instrukcje) poszczególny
 
 - [Stopy i ławy](https://pkpkbud.github.io/fundamenty/)
 - [Ściany murowe i żelbetowe](https://pkpkbud.github.io/sciany/)
-- Ściany oporowe - w przygotowaniu
+- [Ściany oporowe](https://pkpkbud.github.io/oporowa/)
 - Pręty żelbetowe - w przygotowaniu
 
 ## Zakup
@@ -22,6 +22,8 @@ Szczegółowy opis działania zawierają [instrukcje](#instrukcje) poszczególny
 |---|---|
 | Stopy i ławy | 900,- zł |
 | Ściany murowe i żelbetowe | 900,- zł |
+| Ściany oporowe | wkrótce |
+| Pręty żelbetowe | wkrótce |
 
 Ceny dotyczą licencji wieczystej, na fakturze kwota będzie powiększona o podatek VAT
 w wysokości 23%.
